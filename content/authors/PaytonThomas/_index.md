@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Payton Thomas
+title: Payton J. Thomas
 
 # Username (this should match the folder name)
 authors:
