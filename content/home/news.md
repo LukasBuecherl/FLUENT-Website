@@ -4,7 +4,9 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+active: false
+
+title: Introduction
 subtitle:
 
 content:

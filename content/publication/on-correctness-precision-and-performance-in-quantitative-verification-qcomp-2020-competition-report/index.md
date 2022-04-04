@@ -1,13 +1,16 @@
 ---
-title: 'STAMINA: STochastic Approximate Model-Checker for INfinite-State Analysis'
+title: 'On Correctness, Precision, and Performance in Quantitative Verification: QComp 2020 Competition Report'
 authors:
-  - Thakur Neupane
-  - ChrisMyers
-  - Curtis Madsen
-  - HaoZheng
+  - Carlos E. Budde
+  - Arnd Hartmanns
+  - Michaela Klauck
+  - Jan Křetínský
+  - David Parker
+  - Tim Quatmann
+  - Andrea Turrini
   - ZhenZhang
-date: '2019-07-12'
-doi: 'https://doi.org/10.1007/978-3-030-25540-4_31'
+date: '2021-08-05'
+doi: 'https://doi.org/10.1007/978-3-030-83723-5_15'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -19,18 +22,19 @@ doi: 'https://doi.org/10.1007/978-3-030-25540-4_31'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computer Aided Verification*
-publication_short: In *CAV*
+publication: International Symposium on Leveraging Applications of Formal Methods
+publication_short: At *ISoLA 2020*
 
-abstract: Stochastic model checking is a technique for analyzing systems that possess probabilistic characteristics. However, its scalability is limited as probabilistic models of real-world applications typically have very large or infinite state space. This paper presents a new infinite state CTMC model checker, STAMINA, with improved scalability. It uses a novel state space approximation method to reduce large and possibly infinite state CTMC models to finite state representations that are amenable to existing stochastic model checkers. It is integrated with a new property-guided state expansion approach that improves the analysis accuracy. Demonstration of the tool on several benchmark examples shows promising results in terms of analysis efficiency and accuracy compared with a state-of-theart CTMC model checker that deploys a similar approximation method.
+abstract: Quantitative verification tools compute probabilities, expected rewards, or steady-state values for formal models of stochastic and timed systems. Exact results often cannot be obtained efficiently, so most tools use floating-point arithmetic in iterative algorithms that approximate the quantity of interest. Correctness is thus defined by the desired precision and determines performance. In this paper, we report on the experimental evaluation of these trade-offs performed in 'QComp 2020:' the second friendly competition of tools for the analysis of quantitative formal models. We survey the precision guarantees—ranging from exact rational results to statistical confidence statements—offered by the nine participating tools. They gave rise to a performance evaluation using five tracks with varying correctness criteria, of which we present the results.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - stochastic model checking
-  - infinite-state
+  - infinite-state systems
   - markov chains
+  - synthetic biology
 featured: true
 
 links:

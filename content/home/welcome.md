@@ -7,9 +7,10 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  FLUENT
+
+  Verification Project
+hero_media: icon.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +21,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **(FL)orida-(U)tah (E)merging and (N)ano (T)echnologies Verification Project** aims to develop an efficient framework for the stochastic verification of computation and communication systems using emerging technologies.
