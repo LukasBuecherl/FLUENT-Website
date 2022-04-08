@@ -10,50 +10,55 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Utah State University
+    url: https://engineering.usu.edu/ece/index
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Go here
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Engineering
+      institution: University of Utah
+      year: 2016
+    - course: MS in Computer Science
+      institution: The University of Manchester
+      year: 2010
+    - course: BA in Electronic and Electrical Engineering
+      institution: Dublin Institute of Technology
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+- icon: user-graduate
+  icon_pack: fas
+  link: https://engineering.usu.edu/ece/people/faculty/zhang-zhen
+
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=1bpMdpUAAAAJ
+
+- icon: orcid
+  icon_pack: fab
+  link:
+
+- icon: github
+  icon_pack: fab
+  link: https://github.com/zgzn
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zhen-zhang-20861316/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +74,8 @@ user_groups:
   - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Teaching Interests:
+I am interested in contributing to a high standard of teaching at both the undergraduate and graduate levels. Courses I have sufficient background to teach include principles of cyber-physical systems, formal methods, stochastic verification, concurrency theory, digital logic design, embedded system design, FPGA design, random process, asynchronous circuit design and synthesis, and modeling and analysis of synthetic biological systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Research Interests:
+My primary interest is in the modeling and verification of concurrent and stochastic systems, ranging from distributed protocols and asynchronous circuits to cyber-physical and synthetic biological systems. I am interested in developing theories and algorithms to advance formal and semi-formal verification techniques in both conventional and stochastic settings, and their applications in controller synthesis, probabilistic hardware and software, and adversarial perturbation detection for image classification conducted by deep neural networks.
