@@ -48,8 +48,8 @@ social:
   icon_pack: fas
   link: https://www.usf.edu/engineering/cse/people/zheng-hao.aspx
 
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=W1V0wXcAAAAJ&hl=en&oi=ao
 
 - icon: orcid

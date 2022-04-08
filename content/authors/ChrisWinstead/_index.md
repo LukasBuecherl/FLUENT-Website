@@ -41,8 +41,8 @@ social:
     icon_pack: fas
     link: https://engineering.usu.edu/ece/people/faculty/winstead-chris
 
-  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas      
+  - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai      
     link: https://scholar.google.com/citations?hl=en&user=FTWzoNUAAAAJ
 
   - icon: orcid
