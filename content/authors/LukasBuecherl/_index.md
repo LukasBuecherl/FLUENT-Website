@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'lukas.buecherl@colorado.edu'
+  link: mailto:lukas.buecherl@colorado.edu
 
 - icon: twitter
   icon_pack: fab
@@ -57,6 +57,11 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=WSdFsqwAAAAJ
+
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-4844-6605
+
 - icon: github
   icon_pack: fab
   link: https://github.com/LukasBuecherl
