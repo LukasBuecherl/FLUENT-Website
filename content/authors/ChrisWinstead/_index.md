@@ -10,50 +10,48 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Utah State University
+    url: https://engineering.usu.edu/ece/index
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Go here
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: University of Alberta
+      year: 2005
+    - course: BSc in Electrical Engineering
+      institution: University of Utah
+      year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: user-graduate
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: https://engineering.usu.edu/ece/people/faculty/winstead-chris
+
+  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas      
+    link: https://scholar.google.com/citations?hl=en&user=FTWzoNUAAAAJ
+
+  - icon: orcid
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/0000-0001-5238-5852
+
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cjwinstead
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +67,8 @@ user_groups:
   - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Core Areas: Error correction algorithms, architectures and circuit applications. Probabilistic logic, soft computing and noise-enhanced algorithms. Neuromorphic and Bayesian circuits and systems. Reliability and energy efficiency in signal processing systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Specialized Interests: Micro-power implementation for communication signal processing. Stochastic and "bit-flipping" algorithms for error correction and signal processing. Probabilistic design for embedded error control in digital circuits. Analog Bayesian circuits for signal-processing in low-power wireless systems. Anomaly detection and attack inference for hardware security.
+
+Applications: Implementation of LDPC and Turbo decoders. Bio-implantable and transcutaneous wireless transceivers. Fault-tolerant logic and memories post-CMOS electronics. Circuit-based modeling and synthesis of synthetic biological systems.
