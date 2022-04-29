@@ -30,9 +30,9 @@ education:
     - course: PhD in Electrical & Computer Engineering
       institution: Utah State University
       year: 2026 (Estimated)
-	- course: BS in Computer Engineering
-	  institution: Utah State University
-	  year: 2021
+    - course: BS in Computer Engineering
+      institution: Utah State University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
