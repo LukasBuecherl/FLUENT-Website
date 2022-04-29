@@ -28,10 +28,10 @@ education:
     - course: PhD in Computer Engineering
       institution: University of Utah
       year: 2016
-    - course: MS in Computer Science
+    - course: MPhil in Computer Science
       institution: The University of Manchester
       year: 2010
-    - course: BA in Electronic and Electrical Engineering
+    - course: BSc in Electronic and Electrical Engineering
       institution: Dublin Institute of Technology
       year: 2007
 
