@@ -73,9 +73,13 @@ email: ''
 user_groups:
   - Principal Investigators
 ---
+Research Interests:
+My primary interest is in formal verification of concurrent and
+probabilistic computing systems. I am interested in developing
+theories and algorithms to advance formal and semi-formal verification
+techniques in both conventional and stochastic settings, and their
+applications in synthetic biology, probabilistic hardware and
+distributed protocols, and adversarial perturbations for deep neural networks.
 
 Teaching Interests:
 I am interested in contributing to a high standard of teaching at both the undergraduate and graduate levels. Courses I have sufficient background to teach include principles of cyber-physical systems, formal methods, stochastic verification, concurrency theory, digital logic design, embedded system design, FPGA design, random process, asynchronous circuit design and synthesis, and modeling and analysis of synthetic biological systems.
-
-Research Interests:
-My primary interest is in the modeling and verification of concurrent and stochastic systems, ranging from distributed protocols and asynchronous circuits to cyber-physical and synthetic biological systems. I am interested in developing theories and algorithms to advance formal and semi-formal verification techniques in both conventional and stochastic settings, and their applications in controller synthesis, probabilistic hardware and software, and adversarial perturbation detection for image classification conducted by deep neural networks.
