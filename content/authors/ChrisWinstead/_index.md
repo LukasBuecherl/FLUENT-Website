@@ -18,10 +18,13 @@ organizations:
     url: https://engineering.usu.edu/ece/index
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: PhD 2005, Erdos number 3, Bacon number 2, Sabbath number 3
 
 interests:
-  - Go here
+  - Error correction
+  - Stochastic computing
+  - Statistical simulation and importance sampling
+  - VLSI systems
 
 education:
   courses:
