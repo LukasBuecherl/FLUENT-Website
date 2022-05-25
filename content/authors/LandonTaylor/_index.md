@@ -18,16 +18,19 @@ organizations:
     url: https://engineering.usu.edu/ece/index
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include formal verification methods, genetic circuit design and modeling, and computer architecture.
 
 interests:
-  - Go here
+  - Formal Verification
+  - Computer Architecture
+  - Proof Automation
+  - Synthetic Biology
 
 education:
   courses:
     - course: BSc in Computer Engineering
       institution: Utah State University
-      year:
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,16 +39,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link:
+    link: mailto:landon.jeffrey.taylor@usu.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/landon_j_taylor
   - icon: google-scholar
     icon_pack: ai
-    link:
+    link: https://scholar.google.com/citations?user=rHvCfowAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/landonjefftaylor#
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/landonjefftaylor/
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +67,5 @@ email: ''
 user_groups:
   - Undergrad Students
 ---
-Bio here
+
+Landon Taylor is an undergraduate research assistant focusing on using inductive reasoning and property-directed reachability to analyze and verify correctness of probabilistic models. 
