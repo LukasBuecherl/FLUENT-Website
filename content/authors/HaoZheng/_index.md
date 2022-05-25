@@ -24,7 +24,6 @@ interests:
   - Formal methods
   - Computer architecture
   - Embedded/Cyber-Physical systems
-  - VLSI design
   - Design automation
 
 education:
