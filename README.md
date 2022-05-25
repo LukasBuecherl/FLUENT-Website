@@ -1,6 +1,6 @@
 # Best-practices documentation for modifying the website
 
-## Website editting
+## Running website loally 
 
 * Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
 * cd into a directory you want to have the file in
@@ -11,3 +11,11 @@
 * Install the text editor of your choice
 * Create branch for the repository and open the branch in your text editor
 * Page about website structure: https://wowchemy.com/docs/get-started/
+
+## Modifying content
+* open a new branch
+* go to content/authors/yourName
+* open _index.md
+* Make your changes 
+* commit your changes
+* add LukasBuecherl as a reviewer
