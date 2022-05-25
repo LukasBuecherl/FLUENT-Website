@@ -21,14 +21,18 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Go here
+  - Algorithm Design
+  - Computer Architecture
+  - Open-source Software, Right-to-Repair, and Net Neutrality
 
 education:
   courses:
     - course: PhD in Electrical & Computer Engineering
       institution: Utah State University
-      year:
-
+      year: 2026 (Estimated)
+    - course: BS in Computer Engineering
+      institution: Utah State University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,10 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link:
-  - icon: twitter
-    icon_pack: fab
-    link:
+    link: mailto:joshua.jeppson@usu.edu
   - icon: google-scholar
     icon_pack: ai
     link:
@@ -62,4 +63,4 @@ user_groups:
   - Grad Students
 ---
 
-Bio here
+Joshua is a graduate student at Utah State University. Having finished his bachelors' degree in Fall of 2021, Joshua majored in Computer Engineering and received minors in Computer Science and Mathematics. He enjoys the outdoors, running, and DIY projects.
