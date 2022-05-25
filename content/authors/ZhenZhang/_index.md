@@ -48,8 +48,11 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=1bpMdpUAAAAJ
 
-- icon: orcid
-  icon_pack: fab
+#- icon: orcid
+#  icon_pack: fab
+#  link:
+- icon: researchgate
+  icon_pack: ai
   link:
 
 - icon: github
