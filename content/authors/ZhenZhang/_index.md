@@ -21,7 +21,12 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Go here
+  - Formal Methods
+  - Probabilistic Verification
+  - Synthetic Biology
+  - Deep Neural Networks
+  - Network-on-Chip Systems
+  - Embedded/Cyber-Physical Systems
 
 education:
   courses:
@@ -42,19 +47,19 @@ education:
 social:
 - icon: user-graduate
   icon_pack: fas
-  link: https://engineering.usu.edu/ece/people/faculty/zhang-zhen
-
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=1bpMdpUAAAAJ
+  link: https://formal-verification-research.github.io/#publications
 
 - icon: orcid
   icon_pack: fab
-  link:
+  link: https://orcid.org/0000-0002-8269-9489
 
 - icon: github
   icon_pack: fab
   link: https://github.com/zgzn
+
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=1bpMdpUAAAAJ
 
 - icon: linkedin
   icon_pack: fab
@@ -82,4 +87,10 @@ applications in synthetic biology, probabilistic hardware and
 distributed protocols, and adversarial perturbations for deep neural networks.
 
 Teaching Interests:
-I am interested in contributing to a high standard of teaching at both the undergraduate and graduate levels. Courses I have sufficient background to teach include principles of cyber-physical systems, formal methods, stochastic verification, concurrency theory, digital logic design, embedded system design, FPGA design, random process, asynchronous circuit design and synthesis, and modeling and analysis of synthetic biological systems.
+I am interested in contributing to a high standard of teaching at both
+the undergraduate and graduate levels. Courses I have sufficient
+background to teach include principles of cyber-physical systems,
+formal methods, stochastic verification, concurrency theory, digital
+logic design, embedded system design, FPGA design, random process,
+asynchronous circuit design and synthesis, and modeling and analysis
+of synthetic biological systems.
