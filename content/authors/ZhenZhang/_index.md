@@ -53,6 +53,10 @@ social:
   icon_pack: fab
   link: https://orcid.org/0000-0002-8269-9489
 
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Zhen-Zhang-80
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/zgzn
