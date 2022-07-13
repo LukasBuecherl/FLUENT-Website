@@ -5,12 +5,12 @@ event: FLUENT Outreach
 event_url: https://left.engr.usu.edu/workshop/index.html
 
 location: Utah State University
-#address:
-#  street: Room 105, Dean H. Petersen Engineering Lab Bldg
-#  city: Logan
-#  region: UT
-#  postcode: '84322'
-#  country: United States
+address:
+  street: Room 105, Dean H. Petersen Engineering Lab Bldg
+  city: Logan
+  region: UT
+  postcode: '84322'
+  country: United States
 
 #summary:
 #abstract: 'Data is exploding. Today there are more devices generating, transmitting and storing data than there are people on Earth. Most of human knowledge and culture has been rendered into digital formats, but electronic data is ephemeral. Data must be continually curated and maintained, rescued from obsolete technology before it disappears. We can so easily lose it. It resides on chips, disks, or in the cloud -- you can't see it unless you know where to find it.
@@ -27,7 +27,7 @@ all_day: false
 
 # Schedule pa
 
-authors: [Zhen Zhang, Chris Winstead]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
