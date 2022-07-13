@@ -42,6 +42,7 @@ social:
   - icon: user-graduate
     icon_pack: fas
     link: https://ifndefjosh.github.io/
+    
   - icon: envelope
     icon_pack: fas
     link: mailto:joshua.jeppson@usu.edu
