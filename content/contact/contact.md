@@ -47,7 +47,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: https://formspree.io/f/mgedjqbw
+      id: f/mgedjqbw
 
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
@@ -55,3 +55,4 @@ content:
 design:
   columns: '1'
 ---
+New
