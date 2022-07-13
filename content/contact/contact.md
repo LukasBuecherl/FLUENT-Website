@@ -23,7 +23,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: 'f/mgedjqbw'
+      id: 'http://formspree.io/f/mgedjqbw'
 
 
 #content:
@@ -62,7 +62,7 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
     #  captcha: false
 
-#design:
-  #columns: '1'
+design:
+  columns: '1'
 ---
-New2
+New3
