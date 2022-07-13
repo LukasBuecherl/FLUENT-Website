@@ -18,7 +18,13 @@ subtitle:
 autolink: true
 
 email_form: 2
-email: 'f/mgedjqbw'
+
+content:
+  form:
+    provider: formspree
+    formspree:
+      id: 'f/mgedjqbw'
+
 
 #content:
   # Contact (edit or remove options as required)
