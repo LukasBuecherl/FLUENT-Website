@@ -23,7 +23,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: http://formspree.io/f/mgedjqbw
+      id: /f/mgedjqbw
 
 
 #content:
@@ -65,4 +65,4 @@ content:
 design:
   columns: '1'
 ---
-New3
+New4
