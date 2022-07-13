@@ -14,7 +14,11 @@ weight: 10
 title: Contact
 subtitle:
 
-content:
+# Automatically link email and phone?
+autolink: true
+email_form: 2
+
+#content:
   # Contact (edit or remove options as required)
 
   #email: test@example.org
@@ -40,19 +44,17 @@ content:
   #    name: Discuss on Forum
   #    link: 'https://discourse.gohugo.io'
 
-  # Automatically link email and phone or display as text?
-  autolink: true
 
   # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: f/mgedjqbw
+  #form:
+    #provider: formspree
+    #formspree:
+  #    id: f/mgedjqbw
 
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+    #  captcha: false
 
-design:
-  columns: '1'
+#design:
+  #columns: '1'
 ---
-New
+New2
