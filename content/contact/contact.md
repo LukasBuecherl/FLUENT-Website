@@ -68,4 +68,3 @@ content:
 design:
   columns: '1'
 ---
-New4
