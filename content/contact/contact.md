@@ -23,7 +23,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: 'http://formspree.io/f/mgedjqbw'
+      id: http://formspree.io/f/mgedjqbw
 
 
 #content:
