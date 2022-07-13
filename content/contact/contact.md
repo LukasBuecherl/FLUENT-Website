@@ -16,7 +16,9 @@ subtitle:
 
 # Automatically link email and phone?
 autolink: true
+
 email_form: 2
+email: 'f/mgedjqbw'
 
 #content:
   # Contact (edit or remove options as required)
