@@ -20,10 +20,15 @@ autolink: true
 email_form: 2
 
 content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
   form:
     provider: formspree
     formspree:
-      id: /f/mgedjqbw
+      id: "f/mgedjqbw"
+
 
 
 #content:
