@@ -50,7 +50,7 @@ content:
       id: https://formspree.io/f/mgedjqbw
 
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
 design:
   columns: '1'
