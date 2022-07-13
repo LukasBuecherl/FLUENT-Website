@@ -12,7 +12,7 @@ address:
   postcode: '84322'
   country: United States
 
-summary: So. Much. Data.
+summary: 'So. Much. Data./
 abstract: 'Data is exploding. Today there are more devices generating, transmitting and storing data than there are people on Earth. Most of human knowledge and culture has been rendered into digital formats, but electronic data is ephemeral. Data must be continually curated and maintained, rescued from obsolete technology before it disappears. We can so easily lose it. It resides on chips, disks, or in the cloud -- you can't see it unless you know where to find it.
 
 For centuries people have left meaningful artefacts in the form of diaries, letters, artwork, photographs, or physical objects. What will today's generation leave behind? Will digital emails, photos or videos survive beyond a few years? Some researchers are working on the problem of data permanence, finding ways for individuals to preserve their digital lives. In the bigger picture, some scientists are building world archives that may be able to preserve digital artefacts in an almost perpetual format.
