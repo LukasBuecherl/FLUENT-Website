@@ -22,7 +22,7 @@ organizations:
 
 interests:
   - Formal Verification
-  - Probabilistic Modelling
+  - Probabilistic Modeling
   - Algorithm Design and Analysis
 
 education:
@@ -70,7 +70,6 @@ user_groups:
   - Grad Students
 ---
 
-Mohammad Ahmadi is a PhD student at University of South Florida. 
+Mohammad Ahmadi is a PhD student at University of South Florida.
 He finished his Bachelor of Science degree in 2019 majoring in computer engineering. He then joined the SEES lab at University of South Florida to work under the supervision of Dr. Hao Zheng. Currently, his focus is on verification and analysis of probabilistic models.
 Mohammad enjoys running, movies, and watching physics lectures on Youtube.
-
