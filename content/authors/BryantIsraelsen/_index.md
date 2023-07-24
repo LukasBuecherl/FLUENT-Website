@@ -72,4 +72,4 @@ user_groups:
   - Undergrad Students
 ---
 
-Landon Taylor is a PhD student focusing on using inductive reasoning and property-directed reachability to analyze and verify correctness of probabilistic models, particularly Chemical Reaction Networks with rare events. 
+Bryant Israelsen is an undergraduate research assistant at Utah State University.
