@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-     - course: BSc in Computer Engineering
+    - course: BSc in Computer Engineering
       institution: Utah State University
       year: 2024
     - course: MSc in Computer Engineering
