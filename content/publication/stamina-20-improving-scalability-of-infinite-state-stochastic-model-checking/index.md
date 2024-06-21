@@ -1,11 +1,16 @@
 ---
 title: 'STAMINA 2.0: Improving Scalability of Infinite-State Stochastic Model Checking'
 authors:
-  - Riley Roberts
+  - RileyRoberts
   - Thakur Neupane
   - LukasBuecherl
   - ChrisMyers
   - ZhenZhang
+
+#author_notes:
+  #- 'Equal contribution'
+  #- 'Equal contribution'
+  #- 'Equal contribution'
 date: '2022-01-14'
 doi: 'https://doi.org/10.1007/978-3-030-94583-1_16'
 
@@ -19,26 +24,27 @@ doi: 'https://doi.org/10.1007/978-3-030-94583-1_16'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Verification, Model Checking, and Abstract Interpretation
-publication_short: At *VMCAI 2022*
+publication: 'International Conference on Verification, Model Checking, and Abstract Interpretation'
+publication_short: 'VMCAI 2022'
 
-abstract: Stochastic model checking (SMC) is a formal verification technique for the analysis of systems with probabilistic behavior. Scalability has been a major limiting factor for SMC tools to analyze real-world systems with large or infinite state spaces. The infinite-state Continuous-time Markov Chain (CTMC) model checker, STAMINA, tackles this problem by selectively exploring only a portion of a model’s state space, where a majority of the probability mass resides, to efficiently give an accurate probability bound to properties under verification. In this paper, we present two major improvements to STAMINA, namely, a method of calculating and distributing estimated state reachability probabilities that improves state space truncation efficiency and combination of the previous two CTMC analyses into one for generating the probability bound. Demonstration of the improvements on several benchmark examples, including hazard analysis of infinite-state combinational genetic circuits, yield significant savings in both run-time and state space size (and hence memory), compared to both the previous version of STAMINA and the infinite-state CTMC model checker INFAMY. The improved STAMINA demonstrates significant scalability to allow for the verification of complex real-world infinite-state systems.
+abstract: Stochastic model checking (SMC) is a formal verification technique for the analysis of systems with probabilistic behavior. Scalability has been a major limiting factor for SMC tools to analyze real-world systems with large or infinite state spaces. The infinite-state Continuous-time Markov Chain (CTMC) model checker, STAMINA, tackles this problem by selectively exploring only a portion of a models state space, where a majority of the probability mass resides, to efficiently give an accurate probability bound to properties under verification. In this paper, we present two major improvements to STAMINA, namely, a method of calculating and distributing estimated state reachability probabilities that improves state space truncation efficiency and combination of the previous two CTMC analyses into one for generating the probability bound. Demonstration of the improvements on several benchmark examples, including hazard analysis of infinite-state combinational genetic circuits, yield significant savings in both run-time and state space size (and hence memory), compared to both the previous version of STAMINA and the infinite-state CTMC model checker INFAMY. The improved STAMINA demonstrates significant scalability to allow for the verification of complex real-world infinite-state systems.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - stochastic model checking
-  - infinite-state systems
+  - infinite-sate systems
   - markov chains
   - synthetic biology
-featured: true
+  - synthetic biology
+featured: false
 
-links:
-#  - name: Custom Link
-#    url: http://example.org
+# links:
+# - name: ""
+#   url: ""
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/fluentverification/stamina'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -49,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '' #'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ''
   preview_only: false
 
