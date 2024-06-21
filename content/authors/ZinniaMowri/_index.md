@@ -4,13 +4,13 @@ title: Zinnia Muntaha Mowri
 
 # Username (this should match the folder name)
 authors:
-  - Zinnia
+  - ZinniaMowri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Graduate Researcher, Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -56,6 +56,6 @@ email: 'zinnia.mowri@usu.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Grad Students
 ---
 Zinnia is PhD student at Utah State University. She joined May 2023 under Dr. Chris Winstead. She is interested in Non-binary LDPC decoding algorithms. In free time she enjoys to traveling, gardening, cooking and just be around her family. 
