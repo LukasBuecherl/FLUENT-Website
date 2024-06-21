@@ -22,8 +22,8 @@ organizations:
 
 interests:
   - Formal Verification
-  - Computer Architecture
-  - Proof Automation
+  - Model Checking
+  - Reachability Analysis
   - Synthetic Biology
 
 education:
