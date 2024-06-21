@@ -51,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zinnia.mowri@usu.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
