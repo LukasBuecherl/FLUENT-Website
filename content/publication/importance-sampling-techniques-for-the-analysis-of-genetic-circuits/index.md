@@ -1,5 +1,5 @@
 ---
-title: 'Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA'
+title: 'Importance Sampling Techniques for the Analysis of Genetic Circuits'
 authors:
   - PaytonThomas
 
