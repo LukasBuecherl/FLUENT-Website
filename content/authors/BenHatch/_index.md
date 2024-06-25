@@ -48,7 +48,7 @@ social:
   link: https://orcid.org/0000-0002-8762-8444
 - icon: envelope
   icon_pack: fas
-  link: mailto:benjamin.hat4@gmail.com 
+  link: mailto:benjamin.hat4@gmail.com
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,6 +62,6 @@ email: "benjamin.hat4@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Undergraduate Students
 ---
 Ben Hatch is a second-year undergraduate student at the University of Utah studying computer science. His current research focus is visualization tools for synthetic biology. Most recently, Ben has been devloping VisBOL 2.0, an open-source web-based visualization tool for synthetic biology designs.

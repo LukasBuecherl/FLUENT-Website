@@ -63,6 +63,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 Eric is a senior computer engineering student at Utah State University. Eric joined FLUENT in May 2022 under Dr. Chris Winstead. He is interested in LDPC decoding algorithms and has worked on stochastic models of the Noisy Gradient-Descent Bit Flipping (NGDBF) algorithm. In his free time, Eric enjoys hiking, fishing, and traveling around the US with his wife.

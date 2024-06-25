@@ -85,7 +85,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 
 Lukas Buecherl joined the Genetic Logic Lab as Ph.D. student under the supervision of Dr. Chris Myers. He is a member of the IQ Biology program and his research focuses on synthetic biology and its possible applications in improving human lives. He is currently working in computational synthetic biology and plans to extend his knowledge with wet lab experience.

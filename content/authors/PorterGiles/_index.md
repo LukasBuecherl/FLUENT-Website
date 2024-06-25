@@ -21,7 +21,7 @@ organizations:
 bio: I study computer engineering at Utah State with an emphasis in controls. However, my research interests have led me into studying stochastic systems and Markov chain analysis outside of the classroom.
 
 interests:
-  - Autonomous Systems 
+  - Autonomous Systems
   - Networking Protocols
   - Linux
   - Genetic Circuit Modeling
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Undergraduate Students
 ---
 
 Porter Giles has been conducting research in the field of Genetic Circuits since March, 2020, under the supervision of Dr. Zhen Zhang. His focus in this research is in studying and creating genetic circuit model abstraction techniques.

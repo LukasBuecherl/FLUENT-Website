@@ -62,6 +62,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Undergraduate Students
 ---
 Alex Elbel is an undergraduate currently studying computer science at the University of Utah. He is interested in front end website design and software development. In his free time Alex enjoys skiing and backpacking.

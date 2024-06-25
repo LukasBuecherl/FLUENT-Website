@@ -64,6 +64,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Undergraduate Students
 ---
 Thomas is a student at CU Boulder studying computer science, computational biology, and applied math. He is working with Chris on the integration of the SBOLCanvas and iBioSim tools into a single web-based genetic circuit designer and modeling program.

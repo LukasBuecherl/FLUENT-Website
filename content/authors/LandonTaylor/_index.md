@@ -61,7 +61,7 @@ social:
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/landonjefftaylor/
-    
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,7 +74,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 
-Landon Taylor is a PhD student focusing on using inductive reasoning and property-directed reachability to analyze and verify correctness of probabilistic models, particularly Chemical Reaction Networks with rare events. 
+Landon Taylor is a PhD student focusing on using inductive reasoning and property-directed reachability to analyze and verify correctness of probabilistic models, particularly Chemical Reaction Networks with rare events.

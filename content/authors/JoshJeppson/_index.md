@@ -42,7 +42,7 @@ social:
   - icon: user-graduate
     icon_pack: fas
     link: https://ifndefjosh.github.io/
-    
+
   - icon: envelope
     icon_pack: fas
     link: mailto:joshua.jeppson@usu.edu
@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 
 Joshua is a graduate student at Utah State University. Having finished his bachelors' degree in Fall of 2021, Joshua majored in Computer Engineering and received minors in Computer Science and Mathematics. He enjoys the outdoors, running, and DIY projects.

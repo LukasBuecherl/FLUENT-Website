@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Undergraduate Students
 ---
 
 Payton Thomas recently completed his undergraduate studying Biomedical Engineering and Applied Mathematics with a minor in Chemistry at the University of Utah. He is interested in the behavior of biological networks and the nonlinear dynamics of cellular systems. Outside of academics, he enjoys climbing and mountaineering.
