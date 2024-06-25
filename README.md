@@ -1,6 +1,6 @@
 # Best-practices documentation for modifying the website
 
-## Running website loally 
+## Running website loally
 
 * Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
 * cd into a directory you want to have the file in
@@ -16,6 +16,13 @@
 * open a new branch
 * go to content/authors/yourName
 * open _index.md
-* Make your changes 
+* Make your changes
 * commit your changes
 * add LukasBuecherl as a reviewer
+
+## Restarting the website
+* hugo
+* cd public
+* git add .
+* git commit -m "Build website"
+* git push origin main
