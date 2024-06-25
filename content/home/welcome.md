@@ -10,7 +10,7 @@ title: |
   FLUENT
 
   Verification Project
-hero_media: icon.png
+hero_media: Group.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
